@@ -1,1 +1,6 @@
 C:\!projects\bookstore\BookstoreConsole\BookstoreConsole\bin\Debug\BookstoreConsole.exe.config
+C:\!projects\bookstore\BookstoreConsole\BookstoreConsole\bin\Debug\BookstoreConsole.exe
+C:\!projects\bookstore\BookstoreConsole\BookstoreConsole\bin\Debug\BookstoreConsole.pdb
+C:\!projects\bookstore\BookstoreConsole\BookstoreConsole\obj\Debug\BookstoreConsole.csprojResolveAssemblyReference.cache
+C:\!projects\bookstore\BookstoreConsole\BookstoreConsole\obj\Debug\BookstoreConsole.exe
+C:\!projects\bookstore\BookstoreConsole\BookstoreConsole\obj\Debug\BookstoreConsole.pdb
