@@ -1,0 +1,1 @@
+C:\!projects\bookstore\BookstoreConsole\BookstoreConsole\bin\Debug\BookstoreConsole.exe.config
